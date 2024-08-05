@@ -1,0 +1,16 @@
+package ContaBanco;
+import  java.util.Scanner;
+
+public class ContaTerminal {
+
+	public static void main(String[] args) {
+		System.out.println("Por favor,digite o número da Agência!");
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int numero = 0;
+		String Agencia,NomeCliente;
+		float Saldo = 0;
+	}
+
+}
